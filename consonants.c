@@ -44,6 +44,7 @@ void main()
     printf("\nWhite spaces = %d",spaces);
     printf("\nConsonant words = %d",consonant_words);
     printf("\nVowel Words = %d",vowel_words);
+// Changes are added here
 
     
 }
